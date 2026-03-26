@@ -1,207 +1,73 @@
-# 🚀 Tanya Rajani - Professional Portfolio
+# Welcome to your Lovable project
 
-A modern, responsive portfolio website designed for showcasing digital marketing expertise, SEO skills, and professional experience. Perfect for LinkedIn Featured section and professional networking.
+## Project info
 
----
+**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
-## 📋 Project Overview
+## How can I edit this code?
 
-| Field | Details |
-|-------|---------|
-| **Name** | Tanya Rajani Portfolio |
-| **Type** | Static Website |
-| **Purpose** | Professional portfolio to showcase work experience, skills, and projects for LinkedIn profile |
-| **Target Audience** | Recruiters, Hiring Managers, Clients, Industry Connections |
+There are several ways of editing your application.
 
----
+**Use Lovable**
 
-## ✅ Completed Features
+Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
 
-### 🏠 Hero Section
-- Eye-catching gradient design with professional headline
-- "Available for Opportunities" badge with pulse animation
-- Call-to-action buttons (View Work, Get In Touch)
-- Social media links (LinkedIn, Email, Instagram, YouTube)
-- Animated statistics cards (30% Traffic Growth, 4.15K Organic Clicks, 8.6 GPA)
-- Smooth scroll indicator
-- Floating gradient spheres background
+Changes made via Lovable will be committed automatically to this repo.
 
-### 👤 About Me Section
-- Professional summary highlighting unique value proposition
-- Key highlights with check marks
-- Visual statistics with counter animation (70 Days Internship, 10 Projects, 12 Certifications, MBA)
-- Link to full portfolio Google Drive
+**Use your preferred IDE**
 
-### 🛠️ Skills & Tools Section
-- Four skill categories: SEO, Digital Marketing, E-commerce, Tools & Platforms
-- Comprehensive skill lists per category
-- Tools showcase with icons (Google, Shopify, WordPress, Semrush, etc.)
-- Hover animations
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-### 💼 Work Experience Section
-- Timeline layout with markers
-- **Digital Marketing Intern at Meetanshi Technologies LLP** (70 days)
-  - Key responsibilities and achievements
-  - 30% organic clicks boost highlight
-  - Tech tags
-- **Freelance Digital Marketing** (2023 - Present)
-  - BAKE N' FLAKE, BAKERS CLUB, Rangachakra, Assignment World, Webguru.dev
-- **MBA Project Work at DPU** (2023-2025)
-  - Academic achievements
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-### 📂 Projects Section
-- Featured project card layout
-- **BAKE N' FLAKE** - Complete E-commerce Ecosystem (Featured)
-  - Shopify Store, GMB, Blog, Facebook, Instagram, YouTube links
-- **BAKERS CLUB** - Digital Presence Setup
-- **Assignment World** - Full Site SEO Audit
-- **Rangachakra.com** - UX & Technical SEO Audit
-- **Webguru.dev** - SEO Content Strategy
-- **AI & SEO Case Studies**
-- More Work Samples section with Gemini links
+Follow these steps:
 
-### 🎓 Certifications & Education Section
-- Education cards:
-  - MBA in Digital Marketing - DPU (GPA: 8.6)
-  - BBA in Marketing - Bhavnagar University (First Class)
-  - Higher Secondary (Grade: B2)
-- 10+ Professional Certifications with links:
-  - SEO Fundamentals (Semrush)
-  - Technical SEO (Semrush)
-  - Google Digital Garage
-  - Google My Business
-  - Google Ads Masterclass
-  - Facebook & Instagram Marketing
-  - Canva Pro Designer
-  - Advanced Digital Marketing (COSMOS)
-  - Data Visualization (Tableau)
-  - Inbound Marketing (Kraftshala)
-- Featured Internship Certificate with testimonial quote
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-### 📞 Contact Section
-- Contact cards (Email, Phone, Location, LinkedIn)
-- Call-to-action box
-- Resume download button
-- Full Portfolio Drive link
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-### 🎨 Design Features
-- Modern gradient color scheme (Purple/Indigo primary)
-- Responsive design (Mobile, Tablet, Desktop)
-- AOS (Animate on Scroll) animations
-- Preloader with logo animation
-- Fixed navigation with scroll effect
-- Back to top button
-- Dark sections for contrast
-- Professional typography (Inter + Playfair Display)
-- Font Awesome icons
+# Step 3: Install the necessary dependencies.
+npm i
 
----
-
-## 📁 File Structure
-
-```
-/
-├── index.html              # Main HTML file
-├── css/
-│   └── style.css          # All styles
-├── js/
-│   └── main.js            # JavaScript functionality
-└── README.md              # Documentation
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
 ```
 
----
+**Edit a file directly in GitHub**
 
-## 🔗 Live Links Included
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
-### Projects
-| Project | Links |
-|---------|-------|
-| BAKE N' FLAKE | [Shopify](https://bakenflake1.myshopify.com/) • [GMB](https://maps.app.goo.gl/KwU3eAmdGeSpU7o99) • [Blog](https://bakenflake067.blogspot.com/p/blog-page_95.html) • [Instagram](https://www.instagram.com/_bakenflake) • [YouTube](https://youtube.com/@tanyarajani4753) • [Landing Page](https://bake-n-flake.lovable.app/) |
-| BAKERS CLUB | [Landing Page](https://bakers-club.lovable.app/) • [Instagram](https://www.instagram.com/bakersclub__) |
-| Webguru.dev | [Landing Page](https://webguru-magento-growth.lovable.app/) |
+**Use GitHub Codespaces**
 
-### Documents & Certifications
-- [Full Portfolio Drive](https://drive.google.com/drive/folders/1sYHikT4uxV1CFw4H8y-IbuDnb4YQJwqb)
-- [Resume PDF](https://www.genspark.ai/api/files/s/vthScy6G)
-- [SEO Fundamentals Certificate](https://www.genspark.ai/api/files/s/I8oXhWy6)
-- [Technical SEO Certificate](https://www.genspark.ai/api/files/s/Wt9obHOv)
-- [Google Digital Garage](https://www.genspark.ai/api/files/s/OVumrmHu)
-- [Internship Certificate](https://www.genspark.ai/api/files/s/pPnB18ER)
-- [SEO Audit Report](https://www.genspark.ai/api/files/s/Nx7BBml9)
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-### Case Studies
-- [AI Case Study 1](https://gemini.google.com/share/6b6ddc9193fb)
-- [AI Case Study 2](https://gemini.google.com/share/6a0be2db1c6e)
-- [SEO Analysis](https://gemini.google.com/share/4576ef0f6a2c)
-- [Content Strategy](https://gemini.google.com/share/c71fdb2e42bb)
-- [Marketing Analysis](https://gemini.google.com/share/f0436649bf9b)
+## What technologies are used for this project?
 
----
+This project is built with:
 
-## 📱 Contact Information
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
-| Channel | Details |
-|---------|---------|
-| **Email** | tanyarajani01@gmail.com |
-| **Phone** | +91 8758277794 |
-| **Location** | Bhavnagar, Gujarat, India |
-| **LinkedIn** | [linkedin.com/in/tanya-rajani-827223236](https://www.linkedin.com/in/tanya-rajani-827223236) |
+## How can I deploy this project?
 
----
+Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
 
-## 🛠️ Technologies Used
+## Can I connect a custom domain to my Lovable project?
 
-- **HTML5** - Semantic markup
-- **CSS3** - Custom properties, Flexbox, Grid, Animations
-- **JavaScript** - Vanilla JS for interactivity
-- **AOS** - Animate on Scroll library
-- **Font Awesome** - Icons
-- **Google Fonts** - Inter & Playfair Display
+Yes, you can!
 
----
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-## 🚀 How to Use for LinkedIn
-
-1. **Publish** the website using the Publish tab
-2. Copy the published URL
-3. Go to your LinkedIn profile
-4. Click on **Add profile section** > **Featured**
-5. Add as **Link** with the published URL
-6. Add a compelling title like "My Digital Marketing Portfolio"
-
----
-
-## 📊 Key Achievements Highlighted
-
-- **30%** increase in organic clicks (3.19K → 4.15K)
-- **4.15K** total organic clicks achieved
-- **8.6 GPA** in MBA Digital Marketing
-- **70 days** intensive internship at Meetanshi Technologies
-- **10+** real projects with live links
-- **12+** professional certifications
-
----
-
-## 🎯 Recommended Next Steps
-
-1. **Add Professional Photo** - Replace the "TR" initials with a professional headshot
-2. **Add More Projects** - Include any new projects as they're completed
-3. **Update Resume** - Keep the resume link updated
-4. **Social Proof** - Add testimonials if available
-5. **Blog Section** - Consider adding a blog for thought leadership
-6. **Analytics** - Add Google Analytics to track visitors
-
----
-
-## 📝 Notes
-
-- All live links are functional and verified
-- Certificate links point to actual PDF documents
-- The portfolio is optimized for both desktop and mobile viewing
-- The design follows modern web standards and accessibility guidelines
-- AOS animations are disabled for users who prefer reduced motion
-
----
-
-*Last Updated: January 2025*
-*Built for Tanya Rajani - Digital Marketing Executive & SEO Specialist*
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
